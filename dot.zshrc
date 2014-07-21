@@ -57,6 +57,7 @@ alias rm='rm -i'
 alias ghostview='gv'
 alias cls='clear'
 #alias gd='dirs -v; echo -n "select number: "; read newdir; cd -"$newdir"'
+alias lv='less'
 
 # global alias
 alias -g L='|lv'
