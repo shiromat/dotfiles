@@ -1,4 +1,4 @@
-all: tmux vim
+all: tmux vim zsh
 
 tmux:
 	ln -s -f ${PWD}/dot.tmux.conf ${HOME}/.tmux.conf
