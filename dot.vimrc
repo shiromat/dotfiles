@@ -50,5 +50,5 @@ autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
 "autocmd FileType python setlocal omnifunc=pysmell#Complete
 "autocmd FileType python imap <silent> <buffer> <C-i> <C-X><C-O>
 
-noremap  <BS>
-noremap!  <BS>
+"noremap  <BS>
+"noremap!  <BS>
